@@ -1,0 +1,10 @@
+# tp03-correction
+target
+bin
+build
+.classpath
+.project
+.settings
+.vscode
+*~
+monlog.txt
