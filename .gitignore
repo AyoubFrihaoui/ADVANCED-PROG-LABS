@@ -4,7 +4,7 @@
 # Also ignore any future *-sol reference copy:
 #**/*-sol/
 #lab3-sol/
-lab5-sol/
+#lab5-sol/
 # Maven build output
 target/
 **/target/
